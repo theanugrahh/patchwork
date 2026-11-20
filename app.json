@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "Patchwork",
+    "slug": "patchwork",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "plugins": [
+      [
+        "expo-audio",
+        {
+          "microphonePermission": "Patchwork records short voice notes so you can reflect on your day."
+        }
+      ]
+    ]
+  }
+}
